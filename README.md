@@ -1,5 +1,5 @@
 # NYOTA is a digital asset platform that allows its users to send, convert and receive value for their goods and services. 
-We are creating a merchant platform that allows an easy exchange of value. We have pegged NYOTA digital assets to Tanzanian shilling meaning **1NYT=1000TZSH** our aim here it circulation and not accumulation. Imagine if NYOTA was traded as a medium of value for local purchases. We are one step closer to making this possible. Mobile money as paved the way for digital assets to bring back control to the real stake holders of value. With three simple step you can now participate in the digital economy
+We are creating a merchant platform that allows an easy exchange of value. We have pegged NYOTA digital assets to Tanzanian shilling meaning **1NYT=1000TZSH** our aim here is circulation and not accumulation. Imagine if NYOTA was traded as a medium of value for local purchases. We are one step closer to making this possible. Mobile money as paved the way for digital assets to bring back control to the real stake holders of value. With three simple step you can now participate in the digital economy
 
 
 https://github.com/mxsafiri/mxsafiri/assets/113509902/aa0f0702-bf79-4339-ba91-13e90328e254
